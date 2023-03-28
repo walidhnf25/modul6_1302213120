@@ -1,0 +1,8 @@
+E:\modul6_1302213120\modul6_1302213120\bin\Debug\modul6_1302213120.exe.config
+E:\modul6_1302213120\modul6_1302213120\bin\Debug\modul6_1302213120.exe
+E:\modul6_1302213120\modul6_1302213120\bin\Debug\modul6_1302213120.pdb
+E:\modul6_1302213120\modul6_1302213120\obj\Debug\modul6_1302213120.csproj.AssemblyReference.cache
+E:\modul6_1302213120\modul6_1302213120\obj\Debug\modul6_1302213120.csproj.SuggestedBindingRedirects.cache
+E:\modul6_1302213120\modul6_1302213120\obj\Debug\modul6_1302213120.csproj.CoreCompileInputs.cache
+E:\modul6_1302213120\modul6_1302213120\obj\Debug\modul6_1302213120.exe
+E:\modul6_1302213120\modul6_1302213120\obj\Debug\modul6_1302213120.pdb
