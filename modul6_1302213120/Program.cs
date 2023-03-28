@@ -73,17 +73,18 @@ namespace tpmodul6_1302213120
     {
         static void Main(string[] args)
         {
-            SayaTubeUser user = new SayaTubeUser("walid");
-            SayaTubeVideo video1 = new SayaTubeVideo("Review Film Avengers: Endgame oleh walid");
-            SayaTubeVideo video2 = new SayaTubeVideo("Review Film Spider-Man: No Way Home oleh walid");
-            SayaTubeVideo video3 = new SayaTubeVideo("Review Film The Dark Knight oleh walid");
-            SayaTubeVideo video4 = new SayaTubeVideo("Review Film Inception oleh walid");
-            SayaTubeVideo video5 = new SayaTubeVideo("Review Film Interstellar oleh walid");
-            SayaTubeVideo video6 = new SayaTubeVideo("Review Film Joker oleh walid");
-            SayaTubeVideo video7 = new SayaTubeVideo("Review Film The Shawshank Redemption oleh walid");
-            SayaTubeVideo video8 = new SayaTubeVideo("Review Film Fight Club oleh walid");
-            SayaTubeVideo video9 = new SayaTubeVideo("Review Film The Matrix oleh walid");
-            SayaTubeVideo video10 = new SayaTubeVideo("Review Film Pulp Fiction oleh walid");
+            SayaTubeUser user = new SayaTubeUser("praktikan");
+            SayaTubeVideo video1 = new SayaTubeVideo("Review Film Avengers: Endgame oleh praktikan");
+            SayaTubeVideo video2 = new SayaTubeVideo("Review Film Spider-Man: No Way Home oleh praktikan");
+            SayaTubeVideo video3 = new SayaTubeVideo("Review Film The Dark Knight oleh praktikan");
+            SayaTubeVideo video4 = new SayaTubeVideo("Review Film Inception oleh praktikan");
+            SayaTubeVideo video5 = new SayaTubeVideo("Review Film Interstellar oleh praktikan");
+            SayaTubeVideo video6 = new SayaTubeVideo("Review Film Joker oleh praktikan");
+            SayaTubeVideo video7 = new SayaTubeVideo("Review Film The Shawshank Redemption oleh praktikan");
+            SayaTubeVideo video8 = new SayaTubeVideo("Review Film Fight Club oleh praktikan");
+            SayaTubeVideo video9 = new SayaTubeVideo("Review Film The Matrix oleh praktikan");
+            SayaTubeVideo video10 = new SayaTubeVideo("Review Film Pulp Fiction oleh praktikan");
+
             video1.PrintVideoDetails();
             video2.PrintVideoDetails();
             video3.PrintVideoDetails();
@@ -111,11 +112,6 @@ namespace tpmodul6_1302213120
             video3.IncreasePlayCount(300);
             video4.IncreasePlayCount(400);
             video5.IncreasePlayCount(500);
-            video6.IncreasePlayCount(600);
-            video7.IncreasePlayCount(700);
-            video8.IncreasePlayCount(800);
-            video9.IncreasePlayCount(900);
-            video10.IncreasePlayCount(1000);
         }
     }
 }
